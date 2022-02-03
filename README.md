@@ -1,5 +1,7 @@
-# demo-spring-react-example: dsre 
+# jpa03-mglush
 ![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-mglush/branch/main/graph/badge.svg?token=cUCc9I2XEY)
+
+Link to this repository: <https://github.com/ucsb-cs156-w22/jpa03-mglush>
 
 Storybook is here:
 
