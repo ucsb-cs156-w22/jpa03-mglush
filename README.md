@@ -8,8 +8,6 @@ Storybook is here:
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
-If these repos are not yet setup, see the setup steps in [`docs/storybook.md`](docs/storybook.md).
-
 # Setup before running application
 
 Before running the application for the first time,
